@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -14,12 +14,12 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the CS department at [Stony Brook University](https://www.cs.stonybrook.edu), where I am a member of the Ethos Lab and am fortunate to be advised by [Prof. Amir Rahmati](https://amir.rahmati.com). My research is broadly focused on security and privacy of cyber-physical systems, IoT ecosystems, and distributed networking systems. Before moving to New York, I was a Software Engineer working on a distributed shared memory infrastructure at [HPE Aruba Networks](https://www.arubanetworks.com/company/about-us/) in California.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my MS from North Carolina State University, where I was a graduate research student in [Wolfpack Security \& Privacy Lab](https://wspr.csc.ncsu.edu/), advised by [Prof. William Enck](https://enck.org) and [Prof. Brad Reaves](https://people.engr.ncsu.edu/bgreaves/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
