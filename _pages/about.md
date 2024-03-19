@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Candidate <a href='https://ethos-lab.github.io'>@Ethos Lab</a>, </p>
+    <p>Ph.D. Candidate <a href='https://github.com/Ethos-lab'>@Ethos Lab</a>, </p>
     <p>Security Researcher <a href='https://sra.samsung.com'>@Samsung Research America</a></p>
 
 news: true # includes a list of news items
