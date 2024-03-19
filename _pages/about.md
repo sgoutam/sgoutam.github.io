@@ -13,7 +13,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 I am a Computer Science Ph.D. candidate at [Stony Brook University](https://www.cs.stonybrook.edu) and work in the [Ethos Lab](https://github.com/Ethos-lab). I am advised by [Prof. Amir Rahmati](https://amir.rahmati.com).
 
