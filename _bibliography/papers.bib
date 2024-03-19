@@ -1,20 +1,56 @@
 ---
 ---
 
-@inproceedings{goutam2019hestia,
-  title={Hestia: simple least privilege network policies for smart homes},
-  author={Goutam, Sanket and Enck, William and Reaves, Bradley},
-  booktitle={Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks},
-  pages={215--220},
-  year={2019}
-}
+
+Buttons:
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
+- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+- `html`: Inserts an "HTML" button redirecting to the user-specified link
+- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `blog`: Adds a "Blog" button redirecting to the specified link
+- `code`: Adds a "Code" button redirecting to the specified link
+- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `video`: Adds a "Video" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/video/ directory)
+- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `website`: Adds a "Website" button redirecting to the specified link
+- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
+
 
 @inproceedings{kim2023erebus,
-  title={Erebus: Access control for augmented reality systems},
+  title={Erebus: Access Control for Augmented Reality Systems},
   author={Kim, Yoonsang and Goutam, Sanket and Rahmati, Amir and Kaufman, Arie},
   booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
   pages={929--946},
-  year={2023}
+  year={2023},
+  selected={true},
+  abbr={USENIX Security},
+  bibtex_show=true,
+  code={https://github.com/Ethos-lab/erebus-AR_access_control},
+  supp={pubs/usenixsec23/erebus-artifact.pdf},
+  pdf={pubs/usenixsec23/erebus-paper.pdf},
+  slides={pubs/usenixsec23/erebus-slides.pdf},
+  poster={pubs/usenixsec23/erebus-poster.pdf},
+  blog={https://www.nre.navy.mil/media/document/future-force-vol-9-no-1-2023},
+  html={https://www.usenix.org/conference/usenixsecurity23/presentation/kim-yoonsang},
+  video={https://youtu.be/IPyT81RSHB4}
+}
+
+@inproceedings{goutam2019hestia,
+  title={Hestia: Simple Least Privilege Network Policies for Smart Homes},
+  author={Goutam, Sanket and Enck, William and Reaves, Bradley},
+  booktitle={Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec)},
+  pages={215--220},
+  year={2019},
+  selected={true},
+  abbr={ACM WiSec},
+  bibtex_show=true,
+  html={https://dl.acm.org/doi/abs/10.1145/3317549.3323413?casa_token=tTK8FnB0fUgAAAAA:I4iR8JjV-WOrgveEtyYGP6uwqegWwrIEtn75t81MWTnw35bCOjAvBZjXewHIz7-Qpdcx9Wt2BPZlmg},
+  slides={pubs/acmwisec19/hestia-slides.pdf},
+  pdf={pubs/acmwisec19/hestia-paper.pdf}
 }
 
 @article{brglez1974throwing,
@@ -23,7 +59,8 @@
   journal={Math. Comp},
   volume={28},
   pages={325--339},
-  year={2018}
+  year={2018},
+  abbr={Report}
 }
 
 
