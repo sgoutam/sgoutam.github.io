@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate @[Ethos Lab](https://ethos-lab.github.io/) | Security Researcher @[Samsung Research America](https://sra.samsung.com/)
+subtitle: Ph.D. Candidate <a href='https://ethos-lab.github.io'>@Ethos Lab</a> | Security Researcher <a href='https://sra.samsung.com'>@Samsung Research America</a>
 
 profile:
   align: left
