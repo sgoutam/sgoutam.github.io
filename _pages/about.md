@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a Computer Science Ph.D. candidate at [Stony Brook University](https://www.cs.stonybrook.edu) and work in the [Ethos Lab](https://ethos-lab.github.io). I am advised by [Prof. Amir Rahmati](https://amir.rahmati.com).
+I am a Computer Science Ph.D. candidate at [Stony Brook University](https://www.cs.stonybrook.edu) and work in the [Ethos Lab](https://github.com/Ethos-lab). I am advised by [Prof. Amir Rahmati](https://amir.rahmati.com).
 
 My research broadly addresses systems and network security challenges in emerging technologies, with an emphasis on building secure and privacy-focused solutions for mobile systems such as smartphones, wearables (e.g., AR/VR devices), and IoT or smarthome ecosystems. Modern personal devices are constantly evolving with complex designs, perpetual sensing abilities, and with layers of abstractions that may engender new security and privacy threats for users. I investigate how developers design user-facing systems and identify potential security and privacy impacts that may arise due to obscure design practices and functional indirections. My research aims to build practical designs for these systems that meet operational requirements for developers while preserving security and privacy guarantees for end users. Starting Summer 2023, I am also affiliated with [Samsung Research America](https://sra.samsung.com) working as a Security Researcher (*intern*) on the [Samsung Knox](https://www.samsungknox.com/en) for Enterprise solutions.
 
