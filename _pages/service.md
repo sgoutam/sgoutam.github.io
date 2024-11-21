@@ -31,7 +31,7 @@ nav_order: 5
 + 2023 IEEE Security & Privacy Symposium (S&P), _Student Volunteer_
 + 2022-2024 Pedagogy and Inclusivity Training for Computer Science TAs, _CIC Fellow_
 + 2022-2024 WAC Lightning Foundation Science Fair, _Judge_
-+ CSIRE Summer Research Program, _Judge_
++ 2022 CSIRE Summer Research Program, _Reviewer_
 
 # teaching
 
