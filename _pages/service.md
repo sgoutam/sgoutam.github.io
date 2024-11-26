@@ -18,8 +18,9 @@ nav_order: 5
 
 # artifacts
 
++ 2025 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2025/organizers), _Reviewer_
 + 2024 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2024/organizers), _Reviewer_
-+ 2024 [ACM CCS Artifact Evaluation Committee](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), _Reviewer_
++ 2024 [ACM Conference on Computer and Communications Security (ACM CCS)](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), _Reviewer_
 + 2024 [ISOC Network and Distributed Systems Symposium (NDSS)](https://secartifacts.github.io/ndss2024/organizers), _Reviewer_
 + 2023 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2023/organizers), _Reviewer_
 + 2023 [ACM Conference on Computer and Communications Security (ACM CCS)](https://www.sigsac.org/ccs/CCS2023/orgs-artifact.html), _Reviewer_
