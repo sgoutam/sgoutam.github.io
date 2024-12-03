@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Candidate <a href='https://github.com/Ethos-lab'>@Ethos Lab</a></p>
+    <p>Security & Privacy Researcher</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,3 +25,10 @@ I closely collaborate with [Samsung Research America](https://sra.samsung.com) a
 
 I hold a M.S. in Computer Science from [North Carolina State University](https://www.csc.ncsu.edu/), where I was a graduate research student in the [Wolfpack Security and Privacy Lab](https://wspr.csc.ncsu.edu/) and advised by [Prof. William Enck](https://enck.org) and [Prof. Brad Reaves](https://bradreaves.net/). You can find my MS thesis [here](https://repository.lib.ncsu.edu/items/8a983540-1425-4f53-abdb-38bed1806cd2) which proposed a novel network-based access control model for the emergent smart home ecosystem.
 
+
+**Research Funding** : I have been fortunate to have received funding support from the Office of Naval Research (ONR) and Samsung Research America.
+
+
+**Media Coverage** 
++ Some of my research has been covered by the [Future Force Magazine - Vol. 9, 2023](https://www.onr.navy.mil/media/document/future-force-vol-9-no-1-2023).
++ Our work on designing a curriculum for Computer Science Teaching Assistants (TAs), as part of the Inclusive Computing Fellowship, was published in a news article by SBU News. [Read More](https://www.cs.stonybrook.edu/about-us/News/leveling-ta-training-builds-strong-foundation-and-diversity-awareness)
