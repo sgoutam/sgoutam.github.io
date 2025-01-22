@@ -12,7 +12,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a Computer Science Ph.D. candidate at [Stony Brook University](https://www.cs.stonybrook.edu) and work in the [Ethos Lab](https://github.com/Ethos-lab). I am advised by [Prof. Amir Rahmati](https://amir.rahmati.com).
@@ -22,7 +22,7 @@ My research focuses on addressing the critical challenges of systems and network
 I investigate how developers create user-facing systems, analyzing potential security and privacy implications that may arise from obscure design practices and functional indirections. My goal is to develop practical designs that not only meet operational requirements for developers but also uphold robust security and privacy protections for end users.
 
 
-I collaborate closely with [Samsung Research America](https://sra.samsung.com) as a *part-time* Security Research Engineer, focusing on [Samsung Knox](https://www.samsungknox.com/en) for enterprise solutions. Prior to my Ph.D. program, I spent several years with the [ArubaOS](https://www.arubanetworks.com/products/network-management-operations/arubaos/) Infrastructure team, at [HPE Aruba Networks](https://www.arubanetworks.com/company/about-us), where I enhanced their distributed shared memory infrastructure for large scale deployments. My contributions were recognized with multiple awards for high-impact work during my tenure.
+I collaborate closely with [Samsung Research America](https://sra.samsung.com), through Security Research Engineer Internships, focusing on [Samsung Knox](https://www.samsungknox.com/en) for enterprise solutions. Prior to my Ph.D. program, I spent several years with the [ArubaOS](https://www.arubanetworks.com/products/network-management-operations/arubaos/) Infrastructure team, at [HPE Aruba Networks](https://www.arubanetworks.com/company/about-us), where I enhanced their distributed shared memory infrastructure for large scale deployments. My contributions were recognized with multiple awards for high-impact work during my tenure.
 
 
 I hold a Master of Science in Computer Science from [North Carolina State University](https://www.csc.ncsu.edu/), where I was a graduate research student in the [Wolfpack Security and Privacy Lab](https://wspr.csc.ncsu.edu/) under the guidance of Professors [William Enck](https://enck.org) and [Brad Reaves](https://bradreaves.net/). My MS thesis proposed a novel network-based access control model tailored for smart home ecosystem, which can be accessed [here](https://repository.lib.ncsu.edu/items/8a983540-1425-4f53-abdb-38bed1806cd2).
@@ -33,4 +33,4 @@ I hold a Master of Science in Computer Science from [North Carolina State Univer
 
 **Media Coverage** 
 + My research on security hardening of AR and IoT systems has been covered by the [Future Force Magazine - Vol. 9, 2023](https://www.onr.navy.mil/media/document/future-force-vol-9-no-1-2023).
-+ Our work on designing a curriculum for Computer Science Teaching Assistants (TAs), as part of the Inclusive Computing Fellowship, was published in a news article by SBU News. [Read More](https://www.cs.stonybrook.edu/about-us/News/leveling-ta-training-builds-strong-foundation-and-diversity-awareness)
++ Our work on designing a curriculum for Computer Science Teaching Assistants (TAs), as part of the Inclusive Computing Fellowship, was published in a news article by [SBU News](https://www.cs.stonybrook.edu/about-us/News/leveling-ta-training-builds-strong-foundation-and-diversity-awareness).
