@@ -54,41 +54,44 @@ When naming certain files, think about how they may be used in the future. Namin
 
 **Delimiters**
 - **Hyphens (`-`)**:
-	    - Use for separating words within a **single section** of the file name.
-	    - Improves readability, especially in filenames intended to describe a concept or a phrase (e.g., `iot-threat-model` or `privacy-engineering`).
+	- Use for separating words within a **single section** of the file name.
+	- Improves readability, especially in filenames intended to describe a concept or a phrase (e.g., `iot-threat-model` or `privacy-engineering`).
 - **Underscores (`_`)**:
-	    - Use to separate **different sections** of the file name, such as project, functionality, version, or date.
-	    - Useful to visually distinguish structural parts of the file name.
+	- Use to separate **different sections** of the file name, such as project, functionality, version, or date.
+	- Useful to visually distinguish structural parts of the file name.
 
 
 ### Naming Structure
 
 1. **Programming Projects**
+	
 	- **Format**: `<project-name>_<module-or-functionality>_<optional-context>_<version>.<file-extension>`
+	
 	- **Examples**:
-		    - `network-tool_parser_v1.py` (Python script for a parser in a network tool project)
-		    - `iot-security_analysis_v20250117.md` (Analysis for an IoT security project)
-		    - `android-privacy_engine-v2.cpp` (C++ implementation of a privacy engine)
+       - `network-tool_parser_v1.py` (Python script for a parser in a network tool project)
+       - `iot-security_analysis_v20250117.md` (Analysis for an IoT security project)
+       - `android-privacy_engine-v2.cpp` (C++ implementation of a privacy engine)
 
 2. **Personal Notes**
-	- **Research Notes**: `<topic>_<subtopic-or-keywords>_<timestamp>.<file-extension>`
-	    - **Examples**:
-	        - `blockchain_consensus-algorithms_20250117.md`
-	        - `privacy_engineering_general-overview_2025.pdf`
+   
+   - **Research Notes**: `<topic>_<subtopic-or-keywords>_<timestamp>.<file-extension>`
+     - **Examples**:
+         - `blockchain_consensus-algorithms_20250117.md`
+         - `privacy_engineering_general-overview_2025.pdf`
 	- **Technology Notes**: `<tech-name>_<context-or-focus>_<timestamp>.<file-extension>`
-	    - **Examples**:
-	        - `linux_networking_advanced_20250117.md`
-	        - `python_asyncio-tutorial_2024.pdf`
+       - **Examples**:
+          - `linux_networking_advanced_20250117.md`
+          - `python_asyncio-tutorial_2024.pdf`
 	- **Research Statements**: `<statement-topic>_<version>.<file-extension>`
-	    - **Examples**:
-	        - `security-roadmap_v3.md`
-	        - `iot-research-vision_v1.pdf`
+       - **Examples**:
+           - `security-roadmap_v3.md`
+           - `iot-research-vision_v1.pdf`
 
- 3. **Image Files**
-	- **Format**: `<project-or-topic>_<context-or-description>_<timestamp>.<file-extension>`
-	- **Examples**:
-	    - `android-architecture-diagram_20250117.jpg`
-	    - `iot-threat-model_visualization_v2.png`
+3. **Image Files**
+    - **Format**: `<project-or-topic>_<context-or-description>_<timestamp>.<file-extension>`
+    - **Examples**:
+      - `android-architecture-diagram_20250117.jpg`
+      - `iot-threat-model_visualization_v2.png`
 
 4. **Miscellaneous Files**
 	- Use generic names with descriptive elements and dates for non-categorized items.
@@ -124,77 +127,87 @@ When naming certain files, think about how they may be used in the future. Namin
 
 
 **File and Directory Naming**
-1. **File Names**:
-	   - Use lowercase letters with underscores to separate words.
-	   - Keep file names descriptive but concise.
-	   - **Examples**:
-	     - `data_parser.py`
-	     - `network_utility.py`
-	     - `test_iot_security.py`
-2. **Directory Names**:
-	   - Use lowercase letters with underscores.
-	   - Reflect the logical grouping of modules.
-	   - **Examples**:
-		 - `utils/`
-		 - `data_processing/`
-		 - `models/`
+
+   1. **File Names**:
+      - Use lowercase letters with underscores to separate words.
+      - Keep file names descriptive but concise.
+      - **Examples**:
+         - `data_parser.py`
+         - `network_utility.py`
+         - `test_iot_security.py`
+   2. **Directory Names**:
+      - Use lowercase letters with underscores.
+      - Reflect the logical grouping of modules.
+      - **Examples**:
+        - `utils/`
+        - `data_processing/`
+        - `models/`
 
 **Module Naming**
-- Follow the same convention as file names: lowercase with underscores.
-- Name modules after their primary functionality.
-- **Examples**:
-	- `data_cleaner.py`
-	- `json_handler.py`
+
+   - Follow the same convention as file names: lowercase with underscores.
+   - Name modules after their primary functionality.
+   - **Examples**:
+     	- `data_cleaner.py`
+     	- `json_handler.py`
 
 **Class Naming**
-- Use the **PascalCase** convention (capitalize each word without underscores).
-- Class names should be nouns representing objects or entities.
-- **Examples**:
-	  - `DataParser`
-	  - `IoTSecurityAnalyzer`
+
+   - Use the **PascalCase** convention (capitalize each word without underscores).
+   - Class names should be nouns representing objects or entities.
+   - **Examples**:
+   	  - `DataParser`
+   	  - `IoTSecurityAnalyzer`
 
 **Function Naming**
-- Use **snake_case** (lowercase with underscores).
-- Function names should describe their action or purpose.
-- **Examples**:
-	- `parse_data()`
-	- `validate_credentials()`
-	- `get_network_status()`
+
+   - Use **snake_case** (lowercase with underscores).
+   - Function names should describe their action or purpose.
+   - **Examples**:
+     - `parse_data()`
+     - `validate_credentials()`
+     - `get_network_status()`
 
 **Variable Naming**
-- Use **snake_case** for variables.
-- Variables should be descriptive and indicate their purpose.
-- Use short, clear names for local variables.
-- **Examples**:
-	- `user_input`
-	- `file_path`
-	- `connection_status`
+
+   - Use **snake_case** for variables.
+   - Variables should be descriptive and indicate their purpose.
+   - Use short, clear names for local variables.
+   - **Examples**:
+     	- `user_input`
+     	- `file_path`
+     	- `connection_status`
 
 **Constant Naming**
-- Use **UPPERCASE_WITH_UNDERSCORES** for constants.
-- Place constants at the top of the module or in a dedicated configuration file.
-- **Examples**:
-	- `API_KEY`
-	- `DEFAULT_TIMEOUT`
-	- `MAX_CONNECTIONS`
+
+   - Use **UPPERCASE_WITH_UNDERSCORES** for constants.
+   - Place constants at the top of the module or in a dedicated configuration file.
+   - **Examples**:
+     	- `API_KEY`
+     	- `DEFAULT_TIMEOUT`
+     	- `MAX_CONNECTIONS`
 
 **Function Arguments**
-- Use **snake_case** for argument names.
-- Avoid single-character arguments except for standard cases (`i`, `j`, etc.).
-- Provide default values where applicable.
-- **Examples**:
-	- `def connect_to_server(host, port=8080):`
-	- `def filter_data(dataset, filter_type='default'):`
+
+   - Use **snake_case** for argument names.
+   - Avoid single-character arguments except for standard cases (`i`, `j`, etc.).
+   - Provide default values where applicable.
+   - **Examples**:
+     	- `def connect_to_server(host, port=8080):`
+     	- `def filter_data(dataset, filter_type='default'):`
 
 **Testing Naming Conventions**
-1. **Test Files**:
-   - Prefix with `test_` and match the name of the module being tested.
-   - **Example**: `test_data_parser.py` tests `data_parser.py`.
-2. **Test Functions**:
-   - Use `test_` followed by the function or feature being tested.
-   - **Examples**:
-	- `test_parse_data()`
-	- `test_connection_status()`
+
+   1. **Test Files**:
+      - Prefix with `test_` and match the name of the module being tested.
+      - **Example**: 
+        - `test_data_parser.py` 
+
+   2. **Test Functions**:
+      - Use `test_` followed by the function or feature being tested.
+      - **Examples**:
+      	- `test_parse_data()`
+      	- `test_connection_status()`
 
 ### General Styling Rules
 
