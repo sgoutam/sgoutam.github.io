@@ -7,18 +7,18 @@ nav: true
 nav_order: 5
 ---
 
-# peer reviews
+# peer reviews / program committee
 
-+ 2025 [IEEE/ACM Workshop on the Internet of Safe Things](https://safethings25.ieee-security.org/#organization), _Reviewer_ 
++ 2025 [IEEE/ACM Workshop on the Internet of Safe Things](https://safethings25.ieee-security.org/#organization), _Program Committee_ 
 + 2025 IEEE Internet of Things Journal, _Sub-Reviewer_
 + 2024 Journal of Computer Security (JCS), _Sub-Reviewer_
 + 2024 Workshop on CPS & IoT Security and Privacy (CPSIoTSec), _Sub-Reviewer_
-+ 2024 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://www.ieee-security.org/TC/SP2024/cfposters.html), _Reviewer_
++ 2024 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://www.ieee-security.org/TC/SP2024/cfposters.html), _Poster Jury_
 + 2023 IEEE Transactions on Dependable and Secure Computing (TDSC), _Sub-Reviewer_
 + 2022 USENIX Security Symposium (USENIX Security), _Sub-Reviewer_
 + 2018 ISOC Network and Distributed Systems Symposium (NDSS), _Sub-Reviewer_
 
-# artifacts
+# artifact evaluation committee
 
 + 2025 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2025/organizers), _Reviewer_
 + 2024 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2024/organizers), _Reviewer_
@@ -33,8 +33,18 @@ nav_order: 5
 + 2024 Computer Science Graduate Committee, _Graduate Student Representative_
 + 2023 IEEE Security & Privacy Symposium (S&P), _Student Volunteer_
 + 2022-2024 Pedagogy and Inclusivity Training for Computer Science TAs, _CIC Fellow_
-+ 2022-2024 WAC Lightning Foundation Science Fair, _Judge_
++ 2022-2024 WAC Lightning Foundation Science Fair, _Invited Judge_
 + 2022 CSIRE Summer Research Program, _Reviewer_
+
+
+# mentoring
+
++ Pranav Sista, M.S. in Computer Science, Stony Brook University
++ Abas Safi, B.S. in Computer Science, Stony Brook University
++ Yash Tamhane, B.S. in Computer Science, Stony Brook University
++ Shashwat Panigrahi, B.S. in Computer Science & Applied Math, Stony Brook University
++ Hao Si, Software Engineer at HPE Aruba Networks
+
 
 # teaching
 
