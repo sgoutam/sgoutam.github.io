@@ -7,25 +7,31 @@ nav: true
 nav_order: 5
 ---
 
-# peer reviews / program committee
+# peer reviews
 
-+ 2025 [IEEE/ACM Workshop on the Internet of Safe Things](https://safethings25.ieee-security.org/#organization), _Program Committee_ 
-+ 2025 IEEE Internet of Things Journal, _Sub-Reviewer_
-+ 2024 Journal of Computer Security (JCS), _Sub-Reviewer_
-+ 2024 Workshop on CPS & IoT Security and Privacy (CPSIoTSec), _Sub-Reviewer_
-+ 2024 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://www.ieee-security.org/TC/SP2024/cfposters.html), _Poster Jury_
-+ 2023 IEEE Transactions on Dependable and Secure Computing (TDSC), _Sub-Reviewer_
-+ 2022 USENIX Security Symposium (USENIX Security), _Sub-Reviewer_
-+ 2018 ISOC Network and Distributed Systems Symposium (NDSS), _Sub-Reviewer_
+## program committee
++ 2025 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://sp2025.ieee-security.org/cfposters.html)
++ 2025 [IEEE/ACM Workshop on the Internet of Safe Things](https://safethings25.ieee-security.org/#organization)
++ 2024 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://www.ieee-security.org/TC/SP2024/cfposters.html)
+
+
+## external / sub-reviewer
+
++ 2025 IEEE Internet of Things Journal
++ 2024 Journal of Computer Security (JCS)
++ 2024 Workshop on CPS & IoT Security and Privacy (CPSIoTSec)
++ 2023 IEEE Transactions on Dependable and Secure Computing (TDSC)
++ 2022 USENIX Security Symposium (USENIX Security)
++ 2018 ISOC Network and Distributed Systems Symposium (NDSS)
 
 # artifact evaluation committee
 
-+ 2025 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2025/organizers), _Reviewer_
-+ 2024 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2024/organizers), _Reviewer_
-+ 2024 [ACM Conference on Computer and Communications Security (ACM CCS)](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), _Reviewer_
-+ 2024 [ISOC Network and Distributed Systems Symposium (NDSS)](https://secartifacts.github.io/ndss2024/organizers), _Reviewer_
-+ 2023 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2023/organizers), _Reviewer_
-+ 2023 [ACM Conference on Computer and Communications Security (ACM CCS)](https://www.sigsac.org/ccs/CCS2023/orgs-artifact.html), _Reviewer_
++ 2025 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2025/organizers)
++ 2024 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2024/organizers)
++ 2024 [ACM Conference on Computer and Communications Security (ACM CCS)](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
++ 2024 [ISOC Network and Distributed Systems Symposium (NDSS)](https://secartifacts.github.io/ndss2024/organizers)
++ 2023 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2023/organizers)
++ 2023 [ACM Conference on Computer and Communications Security (ACM CCS)](https://www.sigsac.org/ccs/CCS2023/orgs-artifact.html)
 
 
 # outreach
