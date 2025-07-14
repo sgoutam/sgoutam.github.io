@@ -26,6 +26,7 @@ nav_order: 5
 
 # artifact evaluation committee
 
++ 2026 [ISOC Network and Distributed Systems Symposium (NDSS)](https://secartifacts.github.io/ndss2026/organizers)
 + 2025 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2025/organizers)
 + 2024 [USENIX Security Symposium (USENIX Security)](https://secartifacts.github.io/usenixsec2024/organizers)
 + 2024 [ACM Conference on Computer and Communications Security (ACM CCS)](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
