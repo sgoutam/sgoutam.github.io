@@ -10,6 +10,7 @@ nav_order: 5
 # peer reviews
 
 ## program committee
++ 2026 [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858)
 + 2025 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://sp2025.ieee-security.org/cfposters.html)
 + 2025 [IEEE/ACM Workshop on the Internet of Safe Things](https://safethings25.ieee-security.org/#organization)
 + 2024 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://www.ieee-security.org/TC/SP2024/cfposters.html)
@@ -17,6 +18,7 @@ nav_order: 5
 
 ## external / sub-reviewer
 
++ 2026 IEEE European Symposium on Security & Privacy (EuroS&P)
 + 2025 IEEE Internet of Things Journal
 + 2024 Journal of Computer Security (JCS)
 + 2024 Workshop on CPS & IoT Security and Privacy (CPSIoTSec)
@@ -46,6 +48,7 @@ nav_order: 5
 
 # mentoring
 
++ Kasra Kakae, Ph.D. in Computer Science, Stony Brook University
 + Pranav Sista, M.S. in Computer Science, Stony Brook University
 + Abas Safi, B.S. in Computer Science, Stony Brook University
 + Yash Tamhane, B.S. in Computer Science, Stony Brook University
