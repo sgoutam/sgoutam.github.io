@@ -10,9 +10,9 @@ nav_order: 5
 # peer reviews
 
 ## program committee
-+ 2026 [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858)
++ 2026 [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858)
 + 2025 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://sp2025.ieee-security.org/cfposters.html)
-+ 2025 [IEEE/ACM Workshop on the Internet of Safe Things](https://safethings25.ieee-security.org/#organization)
++ 2025 [IEEE/ACM Workshop on the Internet of SafeThings](https://safethings25.ieee-security.org/#organization)
 + 2024 [IEEE Security & Privacy Symposium (S&P) Poster Jury](https://www.ieee-security.org/TC/SP2024/cfposters.html)
 
 
