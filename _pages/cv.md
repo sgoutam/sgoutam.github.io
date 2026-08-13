@@ -2,7 +2,7 @@
 layout: default
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 3
 cv_pdf: Sanket_Goutam_CV.pdf
 ---
