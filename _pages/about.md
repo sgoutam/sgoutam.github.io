@@ -24,6 +24,7 @@ My Ph.D. thesis introduced fundamental primitives for access control, authentica
 Over the years, my work has influenced products at HPE, Apple, Meta, Samsung, Google, and Netflix. I have an Erdős number of [4](https://www.csauthors.net/sanket-goutam/).
 
 **Research Funding**: 
+
 My Ph.D. research was largely supported by the Office of Naval Research (ONR) grant on Robust Energy Infrastructure and Resiliency (N00014-22-1-2001), a [Meta Research Award](https://research.facebook.com/research-awards/2022-towards-trustworthy-products-in-ar-vr-and-smart-devices/#award-recipients), and direct funding from Samsung Research America.
 
 **Media Coverage**:
