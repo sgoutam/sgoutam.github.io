@@ -15,18 +15,18 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I obtained my Ph.D. in Computer Science from [Stony Brook University](https://www.cs.stonybrook.edu) where I was advised by Prof. [Amir Rahmati](https://amir.rahmati.com). I also hold a M.S. (with Thesis) in Computer Science from North Carolina State University (NCSU), advised by Professors [William Enck](https://enck.org/) and [Brad Reaves](https://bradreaves.net/).
+I hold a Ph.D. in Computer Science from [Stony Brook University](https://www.cs.stonybrook.edu), where I was advised by Prof. [Amir Rahmati](https://amir.rahmati.com). I also earned a Master of Science (with Thesis) in Computer Science from [North Carolina State University (NCSU)](https://csc.ncsu.edu/), under the guidance of Professors [William Enck](httpss://enck.org/) and [Brad Reaves](https://bradreaves.net/).
 
-I have studied the security of a wide range of consumer technologies, including smart phones, AR/XR wearables, software-defined networks, Internet of Things (IoT), and cloud infrastructure. I commonly apply a range of system design, formal threat modeling, data analysis, and empirical measurements to demonstrate how novel techniques can improve the security of our computing systems without compromising functionality.
+My research explores the security of various consumer technologies, including smartphones, AR/XR wearables, software-defined networks, the Internet of Things (IoT), and cloud infrastructure. I apply techniques such as system design, program analysis, formal threat modeling, data analysis, and empirical measurements to analyze systems and develop novel security enhancements without compromising functionality. My work draws on methods from operating systems, programming languages, applied cryptography, compilers, and computer networks.
 
-My Ph.D. thesis, in particular, introduced primitives for access control, authentication, and consumer data protection -- some of which has been incorporated into products across various companies. I spent a substantial part of my Ph.D. working closely with Samsung Research America, across a wide range of [Knox Security](https://www.samsung.com/us/business/solutions/samsung-knox/) products. I spent some time at [Netflix](https://www.netflix.com) working on the [MSL Protocol](https://github.com/Netflix/msl) and at [HPE Networking](https://www.hpe.com/us/en/networking.html) working on low-latency distributed networking applications.
+My Ph.D. thesis introduced fundamental primitives for access control, authentication, and sensitive data protection in modern consumer devices, some of which have been incorporated into commercial products. During my doctoral studies, I collaborated closely with Samsung Research America on a wide range of [Knox Security](https://www.samsung.com/us/business/solutions/samsung-knox/) products. My industry experience also includes working at [Netflix](https://www.netflix.com) on the [MSL Protocol](https://github.com/Netflix/msl) and spending several years at [HPE Networking](https://www.hpe.com/us/en/networking.html), where I focused on low-latency distributed networking and shared-memory protocols for a Linux-based OS.
 
-My work over the years have made an influence in products across HPE, Apple, Meta, Samsung, Google, and Netflix. I have an Erdős number [4](https://www.csauthors.net/sanket-goutam/).
+Over the years, my work has influenced products at HPE, Apple, Meta, Samsung, Google, and Netflix. I have an Erdős number of [4](https://www.csauthors.net/sanket-goutam/).
 
+**Research Funding**: 
+My Ph.D. research was largely supported by the Office of Naval Research (ONR) grant on Robust Energy Infrastructure and Resiliency (N00014-22-1-2001), a [Meta Research Award](https://research.facebook.com/research-awards/2022-towards-trustworthy-products-in-ar-vr-and-smart-devices/#award-recipients), and direct funding from Samsung Research America.
 
-**Research Funding** : My Ph.D. research was largely supported by the Office of Naval Research (ONR) grant on Robust Energy Infrastructure and Resiliency (N00014-22-1-2001), [Meta Research Award](https://research.facebook.com/research-awards/2022-towards-trustworthy-products-in-ar-vr-and-smart-devices/#award-recipients), and direct funding from Samsung Research America.
+**Media Coverage**:
+*   My research on security hardening for AR and IoT systems was covered in [Future Force Magazine - Vol. 9, 2023](https://www.onr.navy.mil/media/document/future-force-vol-9-no-1-2023).
+*   I am a recipient of the Inclusive Computing Fellowship from CRA (Computing Research Association). I helped design a curriculum for Computer Science Teaching Assistants (TAs), which was featured by [SBU News](https://www.cs.stonybrook.edu/about-us/News/leveling-ta-training-builds-strong-foundation-and-diversity-awareness).
 
-
-**Media Coverage** 
-+ My research on security hardening of AR and IoT systems was covered by the [Future Force Magazine - Vol. 9, 2023](https://www.onr.navy.mil/media/document/future-force-vol-9-no-1-2023).
-+ My contributions towards designing a curriculum for Computer Science Teaching Assistants (TAs), as part of the Inclusive Computing Fellowship, was published in a news article by [SBU News](https://www.cs.stonybrook.edu/about-us/News/leveling-ta-training-builds-strong-foundation-and-diversity-awareness).
